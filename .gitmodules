@@ -1,0 +1,12 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/G-gunjan/client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/G-gunjan/server.git
+[submodule "nlp-service"]
+	path = nlp-service
+	url = https://github.com/G-gunjan/nlp-service.git
+[submodule "emotion-service"]
+	path = emotion-service
+	url = https://github.com/G-gunjan/emotion-service.git
